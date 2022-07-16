@@ -37,8 +37,6 @@
 ![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
   
-<!--Estudando no momento-->
-![Snake animation](https://github.com/AlexandeOliveira12/AlexandeOliveira12/blob/output/github-contribution-grid-snake.svg)
 <!--Visitas ao perfil-->
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
