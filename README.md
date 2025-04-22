@@ -5,7 +5,6 @@ Hi 👋 My name is Alexandre Oliveira
 ===================================
 
 * 🌍  I'm based in Araçatuba SP
-* ✉️  You can contact me at [lebella321@gmail.com](mailto:lebella321@gmail.com)
 * 🧠  I'm learning Python, Java e SQL
 * 🤝  I'm open to collaborating on Back-End and Full Stack Development.
 
