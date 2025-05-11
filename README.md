@@ -24,7 +24,8 @@ href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="h
 
 <b>My GitHub Stats</b>
 
-![GitHub Snake Contribution Grid Animation](https://raw.githubusercontent.com/AlexandeOliveira12/AlexandeOliveira12/output/github-contribution-grid-snake-dark.svg)
+![GitHub Snake Contribution Grid Animation](https://raw.githubusercontent.com/AlexandeOliveira12/AlexandeOliveira12/output/dist/github-contribution-grid-snake.svg)
+
 
 <a href="http://www.github.com/AlexandeOliveira12"><img src="https://github-readme-stats.vercel.app/api?username=AlexandeOliveira12&show_icons=true&hide=stars,issues,&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="AlexandeOliveira12's GitHub stats" /></a>
 
