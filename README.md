@@ -1,7 +1,7 @@
 <!--Imagem de Fundo-->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=navbar"/>
 
-Hi 👋 My name is Alexandre Oliveira
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hello+my+name+is+Alexandre+Oliveira;I+am+majoring+in;Systems+Analysis+and+Development;Follow+my+progress!🚀)
 ===================================
 
 * 🌍  I'm based in Araçatuba SP
@@ -11,6 +11,8 @@ Hi 👋 My name is Alexandre Oliveira
 * 📫  How to find me: alexandrerroliveira0608@gmail.com
 
 ## 🤹 Skills
+
+
 
 
 <p align="left">
