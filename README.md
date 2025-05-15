@@ -26,6 +26,7 @@
 - [DiscordBot](https://github.com/AlexandeOliveira12/Bot-Oliveira)
 - [AprendeJa](https://github.com/AlexandeOliveira12/AprendeJa.ADS)
 - [CRUDPython](https://github.com/AlexandeOliveira12/CRUD-DB-Python/tree/master/Components)
+- [TerminalLearningHub](https://github.com/AlexandeOliveira12/TerminalLearningHub)
 
 ## 🏆 Badges
 
