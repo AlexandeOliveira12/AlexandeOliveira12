@@ -4,7 +4,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hello+my+name+is+Alexandre+Oliveira;I+am+majoring+in;Systems+Analysis+and+Development;Follow+my+progress!🚀)
 ===================================
 
-* 🌍  I'm based in Araçatuba SP
+* 🌍  I'm based in Araçatuba-SP
 * 🧠  I'm learning Python, Java e SQL
 * 🎓  I am studying Systems Analysis and Development and I am passionate about software development.
 * 🔍  Focused on contributing to open source projects.
