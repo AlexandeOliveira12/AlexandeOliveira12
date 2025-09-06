@@ -40,9 +40,14 @@
 
 <!--Visitas ao perfil-->
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{AlexandeOliveira12}/count.svg" /></p> 
-<br></div>
+  <br>
+  <p align="center"><b>Visitors Count</b></p>  
+  <p align="center">
+    <img align="center" src="https://profile-counter.glitch.me/AlexandeOliveira12/count.svg" />
+  </p> 
+  <br>
+</div>
+
   
 <!--Imagem Final-->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
