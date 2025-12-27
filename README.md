@@ -31,7 +31,7 @@
 ## 🏆 Badges
 
 
-![AlexandeOliveira12's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexandeOliveira12&count_private=true&show_icons=true&hide=prs&theme=dark)
+# ![AlexandeOliveira12's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexandeOliveira12&count_private=true&show_icons=true&hide=prs&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandeOliveira12&layout=compact&theme=dark&hide=css&langs_count=6)
 
   
