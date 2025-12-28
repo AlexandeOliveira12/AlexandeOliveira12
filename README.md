@@ -43,7 +43,7 @@
 
 
 💻 **Development**
-- [AutomateFormatting](https://github.com/AlexandeOliveira12/QuickFormattingScript)
+- [Post formatting](https://github.com/AlexandeOliveira12/QuickFormattingScript)
 - [DiscordBot](https://github.com/AlexandeOliveira12/Bot-Oliveira)
 - [TerminalLearningHub](https://github.com/AlexandeOliveira12/TerminalLearningHub)
 
