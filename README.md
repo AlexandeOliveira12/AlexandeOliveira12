@@ -7,8 +7,8 @@
 ## 👨‍💻 About Me
 
 * 🔐 Pentest Analyst at **Vantico**
-* 🎓 Systems Analysis and Development student
 * 🐧 Daily Linux user
+* 🎓 Systems Analysis and Development student
 * 🧠 Focused on **Offensive Security, Web Pentesting and Automation**
 * 🔍 Focused on contributing to open source projects.
 * 📍 Based in **Brazil**
