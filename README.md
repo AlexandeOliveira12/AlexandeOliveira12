@@ -2,7 +2,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=navbar"/>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=My+name+is+Alexandre+Oliveira👨🏻‍💻;I+am+a+Security+Analyst👾;Follow+my+progress!🚀)
-===================================
+
+---
 
 ## 👨‍💻 About Me
 
@@ -15,6 +16,8 @@
 
 📫 **Contact:**  
 📧 alexandrerroliveira0608@gmail.com  
+
+---
 
 ### 🛠️ Pentest Tools
 ![Nmap](https://img.shields.io/badge/Nmap-00457C?style=for-the-badge)
@@ -31,15 +34,26 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## 💻 Featured Projects
+---
 
+## 📂 Security & Development Projects
+
+🔐 **Security**
+- [PingSweep](https://github.com/AlexandeOliveira12/PingSweep)
+
+
+💻 **Development**
 - [AutomateFormatting](https://github.com/AlexandeOliveira12/QuickFormattingScript)
 - [DiscordBot](https://github.com/AlexandeOliveira12/Bot-Oliveira)
 - [TerminalLearningHub](https://github.com/AlexandeOliveira12/TerminalLearningHub)
 
+---
+
 ## 🏆 Badges
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandeOliveira12&layout=compact&theme=dark&hide=css&langs_count=6)
-  
+
+---
+
 <!--Imagem Final-->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
