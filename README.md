@@ -40,7 +40,7 @@
 - [TerminalLearningHub](https://github.com/AlexandeOliveira12/TerminalLearningHub)
 
 ## 🏆 Badges
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexandeOliveira12)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandeOliveira12&layout=compact&theme=dark&hide=css&langs_count=6)
   
 <!--Imagem Final-->
