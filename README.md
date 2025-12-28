@@ -1,7 +1,7 @@
 <!--Imagem de Fundo-->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=navbar"/>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hello+my+name+is+Alexandre+Oliveira👨🏻‍💻;I+am+a+Security+Analyst👾;Follow+my+progress!🚀)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=My+name+is+Alexandre+Oliveira👨🏻‍💻;I+am+a+Security+Analyst👾;Follow+my+progress!🚀)
 ===================================
 
 ## 👨‍💻 About Me
