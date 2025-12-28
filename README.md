@@ -44,8 +44,8 @@
 
 💻 **Development**
 - [Post formatting](https://github.com/AlexandeOliveira12/QuickFormattingScript)
-- [DiscordBot](https://github.com/AlexandeOliveira12/Bot-Oliveira)
-- [TerminalLearningHub](https://github.com/AlexandeOliveira12/TerminalLearningHub)
+- [Discord Bot](https://github.com/AlexandeOliveira12/Bot-Oliveira)
+- [Terminal Learning Hub](https://github.com/AlexandeOliveira12/TerminalLearningHub)
 
 ---
 
