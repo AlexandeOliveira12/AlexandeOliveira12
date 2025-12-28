@@ -40,6 +40,7 @@
 
 🔐 **Security**
 - [Ping Sweep](https://github.com/AlexandeOliveira12/PingSweep)
+- [Whois Recon](https://github.com/AlexandeOliveira12/WhoisRecon)
 
 
 💻 **Development**
