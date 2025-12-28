@@ -39,7 +39,7 @@
 ## 📂 Security & Development Projects
 
 🔐 **Security**
-- [PingSweep](https://github.com/AlexandeOliveira12/PingSweep)
+- [Ping Sweep](https://github.com/AlexandeOliveira12/PingSweep)
 
 
 💻 **Development**
