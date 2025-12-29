@@ -51,11 +51,5 @@
 
 ---
 
-## 🏆 Badges
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandeOliveira12&layout=compact&theme=dark&hide=css&langs_count=6)
-
----
-
 <!--Imagem Final-->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
