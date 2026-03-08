@@ -19,7 +19,6 @@
 ### 🛠️ Pentest Tools
 ![Nmap](https://img.shields.io/badge/Nmap-00457C?style=for-the-badge)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ### 💻 Languages & Dev
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
