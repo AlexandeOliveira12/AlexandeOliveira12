@@ -14,9 +14,6 @@
 * 🔍 Focused on contributing to open source projects.
 * 📍 Based in **Brazil**
 
-📫 **Contact:**  
-📧 alexandrerroliveira0608@gmail.com  
-
 ---
 
 ### 🛠️ Pentest Tools
