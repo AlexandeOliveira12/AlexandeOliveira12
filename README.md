@@ -35,10 +35,6 @@
 🧪 **Security Labs**
 - [Unrestricted File Upload](https://github.com/AlexandeOliveira12/Unrestricted-File-Upload)
 
-💻 **Development**
-- [Post formatting](https://github.com/AlexandeOliveira12/QuickFormattingScript)
-- [Terminal Learning Hub](https://github.com/AlexandeOliveira12/TerminalLearningHub)
-
 ---
 
 <!--Imagem Final-->
